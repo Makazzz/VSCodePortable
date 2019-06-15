@@ -40,4 +40,4 @@ is packaged as an online installer and complete zip file.
 
 *	Visual Studio Code Portable released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/LICENSE).
 *	PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/VSCodePortable/Other/Source/LauncherLicense.txt).
-*	The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/LICENSE.txt).
+*	The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
