@@ -16,8 +16,8 @@ Download [the latest version of the online installer][D1].
 All other downloads are available [in the Releases section][D2]. Visual Studio Code Portable
 is packaged as an online installer and complete zip file.
 
-[D1]: https://github.com/garethflowers/vscode-portable/releases/tag/Latest
-[D2]: https://github.com/garethflowers/vscode-portable/releases/latest
+[D1]: https://github.com/Makazzz/VSCodePortable/releases/tag/Latest
+[D2]: https://github.com/Makazzz/VSCodePortable/releases/latest
 
 ## Features
 
