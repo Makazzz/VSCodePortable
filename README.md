@@ -16,8 +16,8 @@ Download [the latest version of the online installer][D1].
 All other downloads are available [in the Releases section][D2]. Visual Studio Code Portable
 is packaged as an online installer and complete zip file.
 
-[D1]: https://github.com/Makazzz/VSCodePortable/releases/tag/Latest
-[D2]: https://github.com/Makazzz/VSCodePortable/releases/latest
+[D1]: https://github.com/Makazzz/VSCodiumPortable/releases/latest
+[D2]: https://github.com/Makazzz/VSCodePortable/releases
 
 ## Features
 
@@ -38,6 +38,6 @@ is packaged as an online installer and complete zip file.
 
 ## License
 
-*	Visual Studio Code Portable released under [the GPL v2.0 license](https://raw.githubusercontent.com/garethflowers/vscode-portable/master/LICENSE).
-*	PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/garethflowers/vscode-portable/master/VSCodePortable/Other/Source/LauncherLicense.txt).
-*	The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/Microsoft/vscode/master/LICENSE.txt).
+*	Visual Studio Code Portable released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/LICENSE).
+*	PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/VSCodePortable/Other/Source/LauncherLicense.txt).
+*	The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodePortable/master/LICENSE.txt).
