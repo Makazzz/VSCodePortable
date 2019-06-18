@@ -1,3 +1,5 @@
+<img src="./VSCodePortable/App/AppInfo/AppIcon_128.png" alt="VSCode logo" width="150" />
+
 # Visual Studio Code Portable
 
 Visual Studio Code is a code editor redefined and optimized for building and
